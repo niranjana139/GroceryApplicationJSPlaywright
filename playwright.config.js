@@ -2,7 +2,7 @@
 
 const config = {
   testDir: "./tests/specs",
-  testMatch: "01-login-flow.spec.js",
+
   timeout: 40000,
   reporter: [["html"], ["allure-playwright"]],
   expect: {
@@ -11,6 +11,7 @@ const config = {
   use: {
     browserName: "chromium",
     headless: false,
+    viewport: null,
     launchOptions: {
       args: ["--start-maximized"],
     },

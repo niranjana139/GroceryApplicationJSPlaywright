@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "npx playwright test",
+    "test": "npx playwright test specs/22-admin-creation.spec.js",
     "report":"npx allure generate ./allure-results --clean",
     "open":"npx allure open ./allure-report"
   },

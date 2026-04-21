@@ -1,0 +1,24 @@
+{
+  "creationData": [
+    {
+      "userName": "jml",
+      "password": "jmll",
+      "userType": "Admin"
+    },
+    {
+      "userName": "aml",
+      "password": "jmll",
+      "userType": "Delivery Boy"
+    },
+    {
+      "userName": "bml",
+      "password": "jmll",
+      "userType": "Staff"
+    },
+    {
+      "userName": "xav",
+      "password": "jmll",
+      "userType": "Partner"
+    }
+  ]
+}
