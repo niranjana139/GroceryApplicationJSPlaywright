@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","24391","Verify whether able to create ""Admin"" user: ""automation user""","","Tue May 12 12:08:28 IST 2026","passed","Tue May 12 12:08:52 IST 2026","","22-admin-creation.spec.js","",""
+"","20800","Verify whether able to create ""Delivery Boy"" user: ""automationdelivery""","","Tue May 12 12:08:53 IST 2026","passed","Tue May 12 12:09:14 IST 2026","","22-admin-creation.spec.js","",""
+"","20420","Verify whether able to create ""Staff"" user: ""automationstaff""","","Tue May 12 12:09:15 IST 2026","passed","Tue May 12 12:09:35 IST 2026","","22-admin-creation.spec.js","",""
+"","16895","Verify whether able to navigate to Dashboard sub section","","Tue May 12 12:10:20 IST 2026","failed","Tue May 12 12:10:37 IST 2026","","22-admin-creation.spec.js","",""
+"","22404","Verify whether able to create ""Partner"" user: ""automationpartner""","","Tue May 12 12:09:36 IST 2026","passed","Tue May 12 12:09:58 IST 2026","","22-admin-creation.spec.js","",""
+"","20669","Verify whether able to create ""Partner"" user: ""automaonpartner""","","Tue May 12 12:09:59 IST 2026","passed","Tue May 12 12:10:20 IST 2026","","22-admin-creation.spec.js","",""

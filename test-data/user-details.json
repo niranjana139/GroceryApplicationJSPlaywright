@@ -1,0 +1,35 @@
+{
+  "creationData": [
+    {
+      "info":"This test data set is used for creating admin user",
+      "userName": "automation user",
+      "password": "jmll",
+      "userType": "Admin"
+      
+    },
+    {
+ "info":"This test data set is used for creating delivery boy user",
+      "userName": "automationdelivery",
+      "password": "jmll",
+      "userType": "Delivery Boy"
+    },
+    {
+      "info":"This test data set is used for creating staff user",
+      "userName": "automationstaff",
+      "password": "jmll",
+      "userType": "Staff"
+    },
+    {
+       "info":"This test data set is used for creating partner user",
+      "userName": "automationpartner",
+      "password": "jmll",
+      "userType": "Partner"
+    },
+      {
+       "info":"This test data set is used for creating partner user",
+      "userName": "automaonpartner",
+      "password": "jmll",
+      "userType": "Partner"
+    }
+  ]
+}
