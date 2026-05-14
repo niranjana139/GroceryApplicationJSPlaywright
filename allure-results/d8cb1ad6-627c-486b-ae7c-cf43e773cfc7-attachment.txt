@@ -1,0 +1,7 @@
+[
+  [ 'Username', 'password' ],
+  [ 'admin', 'admin' ],
+  [ 'admin ', 'password' ],
+  [ 'user1', 'admin' ],
+  [ 'user', 'password' ]
+]

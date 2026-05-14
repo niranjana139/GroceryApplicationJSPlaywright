@@ -1,0 +1,644 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - list [ref=e4]:
+      - listitem [ref=e5]:
+        - link "" [ref=e6] [cursor=pointer]:
+          - /url: "#"
+          - generic [ref=e7]: 
+    - list [ref=e8]:
+      - listitem [ref=e9]:
+        - link "User Image Admin" [ref=e10] [cursor=pointer]:
+          - /url: "#"
+          - img "User Image" [ref=e11]
+          - text: Admin
+        - text:  
+  - complementary [ref=e12]:
+    - link "AdminLTE Logo 7rmart supermarket" [ref=e13] [cursor=pointer]:
+      - /url: https://groceryapp.uniqassosiates.com/admin/home
+      - img "AdminLTE Logo" [ref=e14]
+      - text: 7rmart supermarket
+    - generic [ref=e18]:
+      - generic [ref=e19]:
+        - img "User Image" [ref=e21]
+        - link "Admin" [ref=e23] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/home
+      - navigation [ref=e24]:
+        - menu [ref=e25]:
+          - listitem [ref=e26]:
+            - link " Dashboard " [ref=e27] [cursor=pointer]:
+              - /url: ""
+              - generic [ref=e28]: 
+              - paragraph [ref=e29]:
+                - text: Dashboard
+                - generic [ref=e30]: 
+            - list [ref=e31]:
+              - listitem [ref=e32]:
+                - link " NewTestMenu" [ref=e33] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e34]: 
+                  - paragraph [ref=e35]: NewTestMenu
+            - list [ref=e36]:
+              - listitem [ref=e37]:
+                - link " NewTestMenu" [ref=e38] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e39]: 
+                  - paragraph [ref=e40]: NewTestMenu
+            - list [ref=e41]:
+              - listitem [ref=e42]:
+                - link " Testing File" [ref=e43] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/list-footertext
+                  - generic [ref=e44]: 
+                  - paragraph [ref=e45]: Testing File
+            - list [ref=e46]:
+              - listitem [ref=e47]:
+                - link " NewTestMenu" [ref=e48] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e49]: 
+                  - paragraph [ref=e50]: NewTestMenu
+            - list [ref=e51]:
+              - listitem [ref=e52]:
+                - link " NewTestMenu" [ref=e53] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e54]: 
+                  - paragraph [ref=e55]: NewTestMenu
+            - list [ref=e56]:
+              - listitem [ref=e57]:
+                - link " NewTestMenu" [ref=e58] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e59]: 
+                  - paragraph [ref=e60]: NewTestMenu
+            - list [ref=e61]:
+              - listitem [ref=e62]:
+                - link " NewTestMenu" [ref=e63] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e64]: 
+                  - paragraph [ref=e65]: NewTestMenu
+            - list [ref=e66]:
+              - listitem [ref=e67]:
+                - link " NewTestMenu" [ref=e68] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e69]: 
+                  - paragraph [ref=e70]: NewTestMenu
+            - list [ref=e71]:
+              - listitem [ref=e72]:
+                - link " NewTestMenu" [ref=e73] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e74]: 
+                  - paragraph [ref=e75]: NewTestMenu
+            - list [ref=e76]:
+              - listitem [ref=e77]:
+                - link " NewTestMenu" [ref=e78] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e79]: 
+                  - paragraph [ref=e80]: NewTestMenu
+            - list [ref=e81]:
+              - listitem [ref=e82]:
+                - link " freestylejob" [ref=e83] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/
+                  - generic [ref=e84]: 
+                  - paragraph [ref=e85]: freestylejob
+            - list [ref=e86]:
+              - listitem [ref=e87]:
+                - link " NewTestMenu" [ref=e88] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e89]: 
+                  - paragraph [ref=e90]: NewTestMenu
+            - list [ref=e91]:
+              - listitem [ref=e92]:
+                - link " NewTestMenu" [ref=e93] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e94]: 
+                  - paragraph [ref=e95]: NewTestMenu
+            - list [ref=e96]:
+              - listitem [ref=e97]:
+                - link " NewTestMenu" [ref=e98] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e99]: 
+                  - paragraph [ref=e100]: NewTestMenu
+            - list [ref=e101]:
+              - listitem [ref=e102]:
+                - link " NewTestMenu" [ref=e103] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e104]: 
+                  - paragraph [ref=e105]: NewTestMenu
+            - list [ref=e106]:
+              - listitem [ref=e107]:
+                - link " NewTestMenu" [ref=e108] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e109]: 
+                  - paragraph [ref=e110]: NewTestMenu
+            - list [ref=e111]:
+              - listitem [ref=e112]:
+                - link " NewTestMenu" [ref=e113] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e114]: 
+                  - paragraph [ref=e115]: NewTestMenu
+            - list [ref=e116]:
+              - listitem [ref=e117]:
+                - link " NewTestMenu" [ref=e118] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e119]: 
+                  - paragraph [ref=e120]: NewTestMenu
+            - list [ref=e121]:
+              - listitem [ref=e122]:
+                - link " NewTestMenu" [ref=e123] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e124]: 
+                  - paragraph [ref=e125]: NewTestMenu
+            - list [ref=e126]:
+              - listitem [ref=e127]:
+                - link " NewTestMenu" [ref=e128] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e129]: 
+                  - paragraph [ref=e130]: NewTestMenu
+            - list [ref=e131]:
+              - listitem [ref=e132]:
+                - link " NewTestMenu" [ref=e133] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e134]: 
+                  - paragraph [ref=e135]: NewTestMenu
+            - list [ref=e136]:
+              - listitem [ref=e137]:
+                - link " NewTestMenu" [ref=e138] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e139]: 
+                  - paragraph [ref=e140]: NewTestMenu
+            - list [ref=e141]:
+              - listitem [ref=e142]:
+                - link " NewTestMenu" [ref=e143] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e144]: 
+                  - paragraph [ref=e145]: NewTestMenu
+            - list [ref=e146]:
+              - listitem [ref=e147]:
+                - link " NewTestMenu" [ref=e148] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e149]: 
+                  - paragraph [ref=e150]: NewTestMenu
+            - list [ref=e151]:
+              - listitem [ref=e152]:
+                - link " NewTestMenu" [ref=e153] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e154]: 
+                  - paragraph [ref=e155]: NewTestMenu
+            - list [ref=e156]:
+              - listitem [ref=e157]:
+                - link " NewTestMenu" [ref=e158] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e159]: 
+                  - paragraph [ref=e160]: NewTestMenu
+            - list [ref=e161]:
+              - listitem [ref=e162]:
+                - link " NewTestMenu" [ref=e163] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e164]: 
+                  - paragraph [ref=e165]: NewTestMenu
+            - list [ref=e166]:
+              - listitem [ref=e167]:
+                - link " NewTestMenu" [ref=e168] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e169]: 
+                  - paragraph [ref=e170]: NewTestMenu
+            - list [ref=e171]:
+              - listitem [ref=e172]:
+                - link " NewTestMenu" [ref=e173] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e174]: 
+                  - paragraph [ref=e175]: NewTestMenu
+            - list [ref=e176]:
+              - listitem [ref=e177]:
+                - link " NewTestMenu" [ref=e178] [cursor=pointer]:
+                  - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+                  - generic [ref=e179]: 
+                  - paragraph [ref=e180]: NewTestMenu
+          - listitem [ref=e181]:
+            - link "Manage Contact" [ref=e182] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/list-contact
+              - paragraph [ref=e183]: Manage Contact
+          - listitem [ref=e184]:
+            - link "Manage Gift cards &vouchers" [ref=e185] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/
+              - paragraph [ref=e186]: Manage Gift cards &vouchers
+          - listitem [ref=e187]:
+            - link " Admin Users " [ref=e188] [cursor=pointer]:
+              - /url: ""
+              - generic [ref=e189]: 
+              - paragraph [ref=e190]:
+                - text: Admin Users
+                - generic [ref=e191]: 
+            - text:                                                                   
+          - listitem [ref=e192]:
+            - link "ManagePayment" [ref=e193] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/
+              - paragraph [ref=e194]: ManagePayment
+          - listitem [ref=e195]:
+            - link "ManagePayment" [ref=e196] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/
+              - paragraph [ref=e197]: ManagePayment
+          - listitem [ref=e198]:
+            - link "ManagePayment" [ref=e199] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/
+              - paragraph [ref=e200]: ManagePayment
+          - listitem [ref=e201]:
+            - link "ManagePayment" [ref=e202] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/
+              - paragraph [ref=e203]: ManagePayment
+          - listitem [ref=e204]:
+            - link "ManagePayment" [ref=e205] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/
+              - paragraph [ref=e206]: ManagePayment
+          - listitem [ref=e207]:
+            - link "Manage Category" [ref=e208] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/list-category
+              - paragraph [ref=e209]: Manage Category
+          - listitem [ref=e210]:
+            - link "Manage Product12" [ref=e211] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/list-product
+              - paragraph [ref=e212]: Manage Product12
+          - listitem [ref=e213]:
+            - link "Manage Footer Text" [ref=e214] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/list-footertext
+              - paragraph [ref=e215]: Manage Footer Text
+          - listitem [ref=e216]:
+            - link "Manage News" [ref=e217] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/list-news
+              - paragraph [ref=e218]: Manage News
+          - listitem [ref=e219]:
+            - link "Manage Product12" [ref=e220] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/list-product
+              - paragraph [ref=e221]: Manage Product12
+          - listitem [ref=e222]:
+            - link "kkloo" [ref=e223] [cursor=pointer]:
+              - /url: https://groceryapp.uniqassosiates.com/admin/
+              - paragraph [ref=e224]: kkloo
+          - listitem [ref=e225]:
+            - link " Settings " [ref=e226] [cursor=pointer]:
+              - /url: ""
+              - generic [ref=e227]: 
+              - paragraph [ref=e228]:
+                - text: Settings
+                - generic [ref=e229]: 
+            - text:   
+  - generic [ref=e230]:
+    - generic [ref=e233]:
+      - generic [ref=e234]:
+        - heading [level=1]
+      - list [ref=e236]:
+        - listitem [ref=e237]:
+          - link "Home" [ref=e238] [cursor=pointer]:
+            - /url: https://groceryapp.uniqassosiates.com/admin/home
+        - listitem [ref=e239]: / Dashboard
+    - generic [ref=e242]:
+      - generic [ref=e244]:
+        - generic [ref=e245]:
+          - heading "27989" [level=3] [ref=e246]
+          - paragraph [ref=e247]: Admin Users
+        - generic [ref=e248]: 
+        - link "More info " [ref=e249] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/list-admin
+          - text: More info
+          - generic [ref=e250]: 
+      - generic [ref=e252]:
+        - generic [ref=e253]:
+          - heading "0" [level=3] [ref=e254]
+          - paragraph [ref=e255]: Dashboard
+        - generic [ref=e256]: 
+        - link "More info " [ref=e257] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/home
+          - text: More info
+          - generic [ref=e258]: 
+      - generic [ref=e260]:
+        - generic [ref=e261]:
+          - heading "1" [level=3] [ref=e262]
+          - paragraph [ref=e263]: Manage Contact
+        - link "More info " [ref=e264] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/list-contact
+          - text: More info
+          - generic [ref=e265]: 
+      - generic [ref=e267]:
+        - generic [ref=e268]:
+          - heading "0" [level=3] [ref=e269]
+          - paragraph [ref=e270]: Manage Gift cards &vouchers
+        - link "More info " [ref=e271] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin
+          - text: More info
+          - generic [ref=e272]: 
+      - generic [ref=e274]:
+        - generic [ref=e275]:
+          - heading "0" [level=3] [ref=e276]
+          - paragraph [ref=e277]: Test name
+        - link "More info " [ref=e278] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin
+          - text: More info
+          - generic [ref=e279]: 
+      - generic [ref=e281]:
+        - generic [ref=e282]:
+          - heading "0" [level=3] [ref=e283]
+          - paragraph [ref=e284]: Manage Product12
+        - link "More info " [ref=e285] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/list-product
+          - text: More info
+          - generic [ref=e286]: 
+      - generic [ref=e288]:
+        - generic [ref=e289]:
+          - heading "0" [level=3] [ref=e290]
+          - paragraph [ref=e291]: Manage News
+        - link "More info " [ref=e292] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/list-news
+          - text: More info
+          - generic [ref=e293]: 
+      - generic [ref=e295]:
+        - generic [ref=e296]:
+          - heading "0" [level=3] [ref=e297]
+          - paragraph [ref=e298]: Manage Footer Text
+        - link "More info " [ref=e299] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/list-footertext
+          - text: More info
+          - generic [ref=e300]: 
+      - generic [ref=e302]:
+        - generic [ref=e303]:
+          - heading "0" [level=3] [ref=e304]
+          - paragraph [ref=e305]: Manage Category
+        - link "More info " [ref=e306] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/list-category
+          - text: More info
+          - generic [ref=e307]: 
+      - generic [ref=e309]:
+        - generic [ref=e310]:
+          - heading "0" [level=3] [ref=e311]
+          - paragraph [ref=e312]: category
+        - link "More info " [ref=e313] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin
+          - text: More info
+          - generic [ref=e314]: 
+      - generic [ref=e316]:
+        - generic [ref=e317]:
+          - heading "0" [level=3] [ref=e318]
+          - paragraph [ref=e319]: category
+        - link "More info " [ref=e320] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin
+          - text: More info
+          - generic [ref=e321]: 
+      - generic [ref=e323]:
+        - generic [ref=e324]:
+          - heading "0" [level=3] [ref=e325]
+          - paragraph [ref=e326]: category
+        - link "More info " [ref=e327] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin
+          - text: More info
+          - generic [ref=e328]: 
+      - generic [ref=e330]:
+        - generic [ref=e331]:
+          - heading "0" [level=3] [ref=e332]
+          - paragraph [ref=e333]: category
+        - link "More info " [ref=e334] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin
+          - text: More info
+          - generic [ref=e335]: 
+      - generic [ref=e337]:
+        - generic [ref=e338]:
+          - heading "0" [level=3] [ref=e339]
+          - paragraph [ref=e340]: NewTestMenu
+        - link "More info " [ref=e341] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e342]: 
+      - generic [ref=e344]:
+        - generic [ref=e345]:
+          - heading "0" [level=3] [ref=e346]
+          - paragraph [ref=e347]: NewTestMenu
+        - link "More info " [ref=e348] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e349]: 
+      - generic [ref=e351]:
+        - generic [ref=e352]:
+          - heading "0" [level=3] [ref=e353]
+          - paragraph [ref=e354]: NewTestMenu
+        - link "More info " [ref=e355] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e356]: 
+      - generic [ref=e358]:
+        - generic [ref=e359]:
+          - heading "0" [level=3] [ref=e360]
+          - paragraph [ref=e361]: NewTestMenu
+        - link "More info " [ref=e362] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e363]: 
+      - generic [ref=e365]:
+        - generic [ref=e366]:
+          - heading "0" [level=3] [ref=e367]
+          - paragraph [ref=e368]: NewTestMenu
+        - link "More info " [ref=e369] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e370]: 
+      - generic [ref=e372]:
+        - generic [ref=e373]:
+          - heading "0" [level=3] [ref=e374]
+          - paragraph [ref=e375]: NewTestMenu
+        - link "More info " [ref=e376] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e377]: 
+      - generic [ref=e379]:
+        - generic [ref=e380]:
+          - heading "0" [level=3] [ref=e381]
+          - paragraph [ref=e382]: NewTestMenu
+        - link "More info " [ref=e383] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e384]: 
+      - generic [ref=e386]:
+        - generic [ref=e387]:
+          - heading "0" [level=3] [ref=e388]
+          - paragraph [ref=e389]: NewTestMenu
+        - link "More info " [ref=e390] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e391]: 
+      - generic [ref=e393]:
+        - generic [ref=e394]:
+          - heading "0" [level=3] [ref=e395]
+          - paragraph [ref=e396]: NewTestMenu
+        - link "More info " [ref=e397] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e398]: 
+      - generic [ref=e400]:
+        - generic [ref=e401]:
+          - heading "0" [level=3] [ref=e402]
+          - paragraph [ref=e403]: NewTestMenu
+        - link "More info " [ref=e404] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e405]: 
+      - generic [ref=e407]:
+        - generic [ref=e408]:
+          - heading "0" [level=3] [ref=e409]
+          - paragraph [ref=e410]: NewTestMenu
+        - link "More info " [ref=e411] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e412]: 
+      - generic [ref=e414]:
+        - generic [ref=e415]:
+          - heading "0" [level=3] [ref=e416]
+          - paragraph [ref=e417]: NewTestMenu
+        - link "More info " [ref=e418] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e419]: 
+      - generic [ref=e421]:
+        - generic [ref=e422]:
+          - heading "0" [level=3] [ref=e423]
+          - paragraph [ref=e424]: NewTestMenu
+        - link "More info " [ref=e425] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e426]: 
+      - generic [ref=e428]:
+        - generic [ref=e429]:
+          - heading "0" [level=3] [ref=e430]
+          - paragraph [ref=e431]: NewTestMenu
+        - link "More info " [ref=e432] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e433]: 
+      - generic [ref=e435]:
+        - generic [ref=e436]:
+          - heading "0" [level=3] [ref=e437]
+          - paragraph [ref=e438]: NewTestMenu
+        - link "More info " [ref=e439] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e440]: 
+      - generic [ref=e442]:
+        - generic [ref=e443]:
+          - heading "0" [level=3] [ref=e444]
+          - paragraph [ref=e445]: NewTestMenu
+        - link "More info " [ref=e446] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e447]: 
+      - generic [ref=e449]:
+        - generic [ref=e450]:
+          - heading "0" [level=3] [ref=e451]
+          - paragraph [ref=e452]: NewTestMenu
+        - link "More info " [ref=e453] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e454]: 
+      - generic [ref=e456]:
+        - generic [ref=e457]:
+          - heading "0" [level=3] [ref=e458]
+          - paragraph [ref=e459]: NewTestMenu
+        - link "More info " [ref=e460] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e461]: 
+      - generic [ref=e463]:
+        - generic [ref=e464]:
+          - heading "0" [level=3] [ref=e465]
+          - paragraph [ref=e466]: NewTestMenu
+        - link "More info " [ref=e467] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e468]: 
+      - generic [ref=e470]:
+        - generic [ref=e471]:
+          - heading "0" [level=3] [ref=e472]
+          - paragraph [ref=e473]: NewTestMenu
+        - link "More info " [ref=e474] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e475]: 
+      - generic [ref=e477]:
+        - generic [ref=e478]:
+          - heading "0" [level=3] [ref=e479]
+          - paragraph [ref=e480]: NewTestMenu
+        - link "More info " [ref=e481] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e482]: 
+      - generic [ref=e484]:
+        - generic [ref=e485]:
+          - heading "0" [level=3] [ref=e486]
+          - paragraph [ref=e487]: NewTestMenu
+        - link "More info " [ref=e488] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e489]: 
+      - generic [ref=e491]:
+        - generic [ref=e492]:
+          - heading "0" [level=3] [ref=e493]
+          - paragraph [ref=e494]: NewTestMenu
+        - link "More info " [ref=e495] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e496]: 
+      - generic [ref=e498]:
+        - generic [ref=e499]:
+          - heading "0" [level=3] [ref=e500]
+          - paragraph [ref=e501]: NewTestMenu
+        - link "More info " [ref=e502] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e503]: 
+      - generic [ref=e505]:
+        - generic [ref=e506]:
+          - heading "0" [level=3] [ref=e507]
+          - paragraph [ref=e508]: NewTestMenu
+        - link "More info " [ref=e509] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e510]: 
+      - generic [ref=e512]:
+        - generic [ref=e513]:
+          - heading "0" [level=3] [ref=e514]
+          - paragraph [ref=e515]: NewTestMenu
+        - link "More info " [ref=e516] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e517]: 
+      - generic [ref=e519]:
+        - generic [ref=e520]:
+          - heading "0" [level=3] [ref=e521]
+          - paragraph [ref=e522]: NewTestMenu
+        - link "More info " [ref=e523] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e524]: 
+      - generic [ref=e526]:
+        - generic [ref=e527]:
+          - heading "0" [level=3] [ref=e528]
+          - paragraph [ref=e529]: NewTestMenu
+        - link "More info " [ref=e530] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/Testurl
+          - text: More info
+          - generic [ref=e531]: 
+      - generic [ref=e533]:
+        - generic [ref=e534]:
+          - heading "0" [level=3] [ref=e535]
+          - paragraph [ref=e536]: Manage AddtoCart
+        - link "More info " [ref=e537] [cursor=pointer]:
+          - /url: https://groceryapp.uniqassosiates.com/admin/https/loginto.addcarts
+          - text: More info
+          - generic [ref=e538]: 
+  - contentinfo [ref=e539]:
+    - strong [ref=e540]:
+      - text: Copyright © 2026
+      - link "7rmart supermarket" [ref=e541] [cursor=pointer]:
+        - /url: https://groceryapp.uniqassosiates.comhome
+      - text: .
+    - text: All rights reserved.
+    - generic [ref=e542]:
+      - text: Design & Developed by
+      - link:
+        - /url: ""
+```

@@ -1,4 +1,3 @@
-
 {
   "name": "playwrightgroceryapplication",
   "version": "1.0.0",
@@ -7,8 +6,9 @@
     "admintest": "npx playwright test specs/admincreation.spec.js",
     "logintest": "npx playwright test specs/login.spec.js",
     "endtoendtest": "npx playwright test specs/endtoend.spec.js",
-    "report":"npx allure generate ./allure-results --clean",
-    "open":"npx allure open ./allure-report",
+    "invalidlogintest": "npx playwright test specs/invalidlogin.spec.js",
+    "report": "npx allure generate ./allure-results --clean",
+    "open": "npx allure open ./allure-report",
     "trace": "powershell -Command \"$file = Get-ChildItem -Path test-results -Recurse -Filter trace.zip | Sort-Object LastWriteTime -Descending | Select-Object -First 1; if ($file) { npx playwright show-trace \\\"$($file.FullName)\\\" } else { Write-Host 'No trace found' }\""
   },
   "keywords": [],
@@ -19,8 +19,7 @@
     "@playwright/test": "^1.56.1",
     "@types/node": "^24.0.3",
     "allure-commandline": "^2.34.1",
-    "allure-playwright": "^3.4.1",
+    "allure-playwright": "^3.8.0",
     "exceljs": "^4.4.0"
   }
-
 }
