@@ -16,7 +16,7 @@ test.beforeAll(async ({ browser }) => {
   loginPage = new LoginPage(page);
   homePage = new HomePage(page);
 });
-test.only('verify invalid login', async () => {
+test('verify invalid login', async () => {
  
     const filePath = "C:\\Users\\Netcom\\Desktop\\playwrightGroceryApplication\\GroceryApplicationJSPlaywright\\test-data\\TestData.xlsx";
 
