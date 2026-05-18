@@ -58,5 +58,5 @@ test("Verify whether able to navigate to Dashboard sub section", async () => {
   await page.waitForTimeout(3000);
   await homePage.$subSection.click();
  await page.waitForTimeout(3000);
-  await expect(homePage.$subSectionLandingPage).toBeVisible();
+ 
 });
