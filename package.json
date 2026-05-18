@@ -8,6 +8,7 @@
     "endtoendtest": "npx playwright test specs/endtoend.spec.js",
     "invalidlogintest": "npx playwright test specs/invalidlogin.spec.js",
     "newstest": "npx playwright test specs/news.spec.js",
+    "runtests": "npx playwright test specs",
     "report": "npx allure generate ./allure-results --clean",
     "open": "npx allure open ./allure-report",
     "trace": "powershell -Command \"$file = Get-ChildItem -Path test-results -Recurse -Filter trace.zip | Sort-Object LastWriteTime -Descending | Select-Object -First 1; if ($file) { npx playwright show-trace \\\"$($file.FullName)\\\" } else { Write-Host 'No trace found' }\""

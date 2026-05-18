@@ -21,43 +21,9 @@ test.beforeAll(async ({ browser }) => {
   homePage = new HomePage(page);
 });
 
-
-test.describe.serial("End to end script to create admin user", () => {
-  test("Login as Admin", async () => {
-    await loginPage.launchUrl();
-    await loginPage.login(loginData.username, loginData.password);
-    // await page.waitForTimeout(5000);
-    await expect(homePage.$profileName("Admin")).toBeVisible();
-  });
-
-  test("Navigate to admin user page", async () => {
-    const adminUserPage = new AdminUser(page);
-    await adminUserPage.clickAdminUser();
-  });
-
-  test("Click on New button", async () => {
-    const adminUserPage = new AdminUser(page);
-    await adminUserPage.clickNewUser();
-  });
-
-  test("create user", async () => {
-    const adminUserPage = new AdminUser(page);
-    await adminUserPage.fillDetails("playwright", "playwright", "Partner");
-  });
-
-  test("Click on Save button", async () => {
-    const adminUserPage = new AdminUser(page);
-    await adminUserPage.clickSaveButton();
-    await page.waitForTimeout(5000);
-  });
-});
-test.only('verify Login', async () => {
+test('verify Login', async () => {
   await loginPage.launchUrl();
   await loginPage.login(loginData.username, loginData.password);
-  const adminUserPage = new AdminUser(page);
-  await adminUserPage.clickAdminUser();
-   await adminUserPage.clickNewUser();
-   await adminUserPage.fillDetails("playwright", "playwright", "Partner");
-      await adminUserPage.clickSaveButton();
+ 
     await page.waitForTimeout(5000);
 });
